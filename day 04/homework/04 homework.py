@@ -11,4 +11,3 @@ print("i was born in 2012 im")
 print(age)
 print(" you know 42784 + 4723456=... ")
 print(42784 + 4723456)
-print
