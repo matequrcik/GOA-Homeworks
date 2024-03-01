@@ -1,7 +1,4 @@
-num1=2024
+user_age = int(input("what is iour age?: "))
+time_travel =int(input("enter time travel?: "))
 
-num2=int(input("what year were you born?: "))
-
-
-num3=int(input("What year do you want to travel?: ") )
-print("you will be: " ,(num3-num2))
+print(user_age + time_travel)

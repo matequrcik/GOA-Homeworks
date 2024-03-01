@@ -1,0 +1,13 @@
+n=(int(input("matematikasi ra qula gaqvs?: ")))
+p=(int(input("qartulshi?: ")))
+y=(int(input("ბუნება: ")))
+l=(int(input("მუსიკა: ")))
+m=(int(input("xelovneba: ")))
+o=(int(input("ისტორია: ")))
+u=(int(input("kompiuteri: ")))
+b=(int(input("რუსული: ")))
+c=(int(input("სპორტი: ")))
+a=(int(input("inglisuri: ")))
+jh=int(n+p+y+l+m+o+u+b+c+a)
+print(("შენი სრუ ლ ი ქულ აა " , jh))
+
